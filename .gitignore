@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# js
+node_modules/
+
+# ruby
+bundle/
+
+# exercism
+.exercism/
